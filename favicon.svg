@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>PlateTrial</title>
+  <rect width="512" height="512" rx="112" fill="#0f5c4d"/>
+  <circle cx="256" cy="256" r="176" fill="#f7f6f2"/>
+  <path d="M256 124a132 132 0 0 0 0 264z" fill="#f2dfa6"/>
+  <path d="M256 124a132 132 0 0 1 0 264z" fill="#bcd6ea"/>
+  <circle cx="256" cy="256" r="132" fill="none" stroke="#0f5c4d" stroke-width="10"/>
+  <path d="M256 104v304" stroke="#0f5c4d" stroke-width="16" stroke-linecap="round"/>
+</svg>
